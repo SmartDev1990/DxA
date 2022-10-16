@@ -1,0 +1,12 @@
+{
+  "2000": {
+    "WWDOGE": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+    "TowerFactory": "0x81B0068BD33D14AfED60ae72deC9B238a0020b33",
+    "PancakeFactory_Init_Code_Hash": "0x0b9ef85162839d9316ec182b70401faf75a70ddd97e3d77405de1dda01759716",
+  },
+  "180": {
+    "WAME": "0xCc9bD40124EfedF6F198B8b5b50697dC635FaaC4",
+    "TowerFactory": "0x060077Ae357455a4b553fcaB7270567e8a33AFb9",
+    "PancakeFactory_Init_Code_Hash": "0xd7cd0105b3982bd3f58242183932e1e80b4a6e547b05ac63fc6c2d860384d9a2",
+  }
+}
